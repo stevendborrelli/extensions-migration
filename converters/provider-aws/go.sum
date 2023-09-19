@@ -110,8 +110,8 @@ github.com/cncf/xds/go v0.0.0-20210312221358-fbca930ec8ed/go.mod h1:eXthEFrGJvWH
 github.com/creack/pty v1.1.9/go.mod h1:oKZEueFk5CKHvIhNR5MUki03XCEU+Q6VDXinZuGJ33E=
 github.com/crossplane-contrib/provider-aws v0.43.0-rc.0.0.20230809135829-3f14add7c3a9 h1:5Q742CRIoSVHPv4mwDwe30SAaYDC02mOJKjB2j/b18o=
 github.com/crossplane-contrib/provider-aws v0.43.0-rc.0.0.20230809135829-3f14add7c3a9/go.mod h1:xNlKFJaKr4h+FZ4p8rYgOB0ac79EU2min11DX7JbSCM=
-github.com/crossplane/crossplane v1.10.0 h1:JP6TdhoZuRS27rYd+HCZNEBdf/1/w+rqIShW2qz/Qhk=
-github.com/crossplane/crossplane v1.10.0/go.mod h1:a90wo/wkTDHhh8artgsUiLtQu5DIYwA7biHPDoMssms=
+github.com/crossplane/crossplane v1.11.5 h1:It/kq9VeO2dLy9kU95RJDJup9N0WEqiATmVMqcOci6Y=
+github.com/crossplane/crossplane v1.11.5/go.mod h1:HhJ/EVMdbbZD5NuwJ32F1TSjaaiD6jPveP/qNghZiyk=
 github.com/crossplane/crossplane-runtime v0.20.0 h1:MlPNrK6ELKLQdeHaIdKxQpZW2LSivSYXxHKVfU32auU=
 github.com/crossplane/crossplane-runtime v0.20.0/go.mod h1:FuKIC8Mg8hE2gIAMyf2wCPkxkFPz+VnMQiYWBq1/p5A=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=

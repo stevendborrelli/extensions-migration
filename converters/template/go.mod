@@ -38,10 +38,10 @@ require (
 	github.com/aws/smithy-go v1.13.3 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.2.0 // indirect
-	github.com/crossplane/crossplane v1.10.0 // indirect
+	github.com/crossplane/crossplane v1.11.5 // indirect
 	github.com/crossplane/crossplane-runtime v0.20.0 // indirect
 	github.com/crossplane/crossplane-tools v0.0.0-20230714144037-2684f4bc7638 // indirect
-	github.com/dave/jennifer v1.4.1 // indirect
+	github.com/dave/jennifer v1.5.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/emicklei/go-restful/v3 v3.10.2 // indirect
 	github.com/evanphx/json-patch v4.12.0+incompatible // indirect
